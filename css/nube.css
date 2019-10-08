@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
- @import url('https://fonts.googleapis.com/css?family=Grand+Hotel|Open+Sans&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Bitter|Grand+Hotel|Open+Sans&display=swap');
 .reveal a {
   line-height: 1.3em; }
 
@@ -58,12 +58,13 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {    
-    font-family: 'Grand Hotel', cursive;
+    font-family: 'Bitter', serif;
     font-size: 3.77em;
 }
 
 .reveal h2 {
-  font-size: 2.11em; }
+        font-family: 'Grand Hotel', cursive;
+	font-size: 2.11em; }
 
 .reveal h3 {
   font-size: 1.55em; }
